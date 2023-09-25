@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>이미지 변경하기</title>
+
+    <style>
+        #image {
+            transition: 0.3s;  /* 이미지 변경에 대한 전환 효과를 추가 */
+        }
+
+        #image:hover {
+            opacity: 0.5;  /* 마우스 오버 시 이미지 투명도 변경 */
+            transform: scale(1.2);  /* 마우스 오버 시 이미지 크기 변경 */
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <img src="media/apple.png" alt="apple" id="image">
+
+    <script>
+        var imageElement = document.getElementById("image");
+
+        imageElement.addEventListener("mouseover", function() {
+            imageElement.src = "media/cat1.png";
+            imageElement.alt = "orange";
+        });
+
+        imageElement.addEventListener("mouseout", function() {
+            imageElement.src = "media/apple.png";
+            imageElement.alt = "image";
+        });
+    </script>
+</body>
+</html>

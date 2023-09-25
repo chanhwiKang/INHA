@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>메뉴 가격 계산기</title>
+</head>
+<body>
+    <h3>먹고 싶은 것 체크</h3>
+    <hr>
+    <form>
+        <label>
+            <img src="media/jajang.png">100원
+            <input type="checkbox" name="menu" value="100">
+        </label><br>
+        <label>
+            <img src="media/jjambbong.png">200원
+            <input type="checkbox" name="menu" value="200">
+        </label><br>
+        <label>
+            <img src="media/tangsuyuk.png">300원
+            <input type="checkbox" name="menu" value="300">
+        </label><br>
+    </form>
+
+    <button onclick="calPrice()">가격 계산하기</button>
+
+    <p id="result"></p>
+
+    <script>
+        function calPrice() {
+            var checkboxes = document.getElementsByName("menu");
+            var totalPrice = 0;
+
+            for (var i = 0; i < checkboxes.length; i++) {
+                if (checkboxes[i].checked) {
+                    totalPrice += parseInt(checkboxes[i].value);
+                }
+            }
+
+            var resultElement = document.getElementById("result");
+            resultElement.textContent = "총 가격: " + totalPrice + "원";
+        }
+    </script>
+</body>
+</html>

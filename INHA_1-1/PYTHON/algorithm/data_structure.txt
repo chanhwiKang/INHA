@@ -1,0 +1,71 @@
+*배열
+삽입/삭제 O(N)
+읽기 O(1)
+
+*연결 리스트
+삽입/삭제 O(1)
+읽기 O(N)
+
+*스택 선입후출 (파이썬은 리스트로)
+삽입/삭제 O(1)
+#########################
+s = []
+s.append(123)
+s.append(456)
+s.append(789)
+
+print("size", len(s))
+
+while len(s) > 0:
+    print(s[-1])
+    s.pop(-1) # s.pop(-1) == s.pop()
+
+*큐 선입선출
+삽입/삭제 O(1)
+#########################
+from collections import deque
+
+q = deque()
+q.append(123)
+s.append(456)
+s.append(789)
+
+print("size", len(q))
+while len(q) > 0:
+    print(q.popleft())
+
+*우선순위 큐, 힙 (작은 순서대로 출력. min-heap)
+삽입/삭제 O(log N)
+import heapq
+
+pq = []
+heapq.heapqpush(pq, 456) (index를 넣을 때 마다 0번 index는 항상 최소값이 됨)
+heapq.heapqpush(pq, 123)
+heapq.heapqpush(pq, 789)
+
+print("size", len(pq))
+
+while len(pq) > 0:
+    print(heapq.heappop(pq))
+
+*Dictionary 
+삽입/삭제 O(1)
+#########################
+m = {}
+m{"Yoondy"} = 40
+m("Sky") = 100
+m{"Jerry"} = 50
+
+print("size:", len(m))
+
+for k in m:
+    print(k, m[k])
+
+*set(집합. 중복된 값은 하나만 저장됨)
+삽입 / 삭제 O(1)
+#########################
+s = ()
+s.add(10)
+s.add(30)
+s.add(40)
+s.remove(30)

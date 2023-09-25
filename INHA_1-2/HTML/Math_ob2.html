@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let computer = Math.floor(Math.random()*3);
+        let mySelect = prompt("가위, 바위, 보 중 선택", "");
+        let gameNum;
+        let computerChoice;
+        if (computer == 0) { computerChoice = "가위";}
+        else if (computer == 1) { computerChoice = "바위";}
+        else { computerChoice = "보";}
+        
+        if(mySelect == "가위") { gameNum = 0; }
+        else if(mySelect == "바위") { gameNum = 1; }
+        else if(mySelect == "보") { gameNum = 2; }
+        else { 
+            alert("잘못입력함");
+            location.reload();
+        }
+
+        document.write("컴퓨터의 선택: ", computerChoice);
+        if(computer == gameNum) {document.write("<h3>비겼습니다</h3>");}
+        else if((gameNum == 0 && computer == 2) || (gameNum == 1 && computer ==0) || (gameNum == 2 && computer == 1)) 
+        {
+            document.write("<h3>이겼습니다</h3>");
+        }
+        else {document.write("<h3>졌습니다</h3>");}
+    </script>
+    <button onClick="window.location.reload()">한판더?</button>
+</body>
+</html>
