@@ -10,3 +10,4 @@ print(pow(pow(float(input("밑변의 길이를 입력해주세요: ")), 2) + pow
 # print(f"구의 부피는 {4/3 * PI * pow(half, 3)}")
 # print(f"구의 겉넓이는 {4 * PI * pow(half, 2)}")
 
+-5_
