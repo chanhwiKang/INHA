@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function randomColor() {
+            document.ondblclick = function(e) {
+                let r = Math.random()*256
+                let g = Math.random()*256
+                let b = Math.random()*256
+                document.body.style.backgroundColor = `rgb(${r},${g},${b})`;
+            }
+        }
+    </script>
+</head>
+<body onload="randomColor()">
+    <h3> double click</h3><hr>
+
+</body>
+</html>
