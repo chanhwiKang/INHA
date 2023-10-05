@@ -1,14 +1,4 @@
-sample = {"key1" : "val1", "key2" : "val2"}
-
-print(sample)
-print("-"*50)
-
-a, b = sample.items()
-print(a, b)
-print("-"*50)
-
-a = sample.keys()
-b = sample.values()
-print(f"{sample.keys()},\n{b}")
-print("-"*50)
-print("-"*50)
+a = "지금 %f도" %20.5
+b = "지금 %.1f도" %20.5
+print(a)
+print(b)
