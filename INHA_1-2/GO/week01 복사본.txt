@@ -1,0 +1,7 @@
+git command
+git init
+git status
+git add week01.txt
+git config --global user.email "cksgnl@naver.com"
+git config --global user.name "chanhwi Kang"
+git config --global list 
