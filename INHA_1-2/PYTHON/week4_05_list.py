@@ -17,7 +17,7 @@ del test[:] # [] , 모든 요소 삭제, test.clear()와 같음
 test = [0, 1, 4, 5, 6]
 
 # 값[value]으로 삭제
-test.remove[6] # [0, 1, 4, 5]
+test.remove(6) # [0, 1, 4, 5]
 
 # pop() 삭제 및 요소 반환
 a = test.pop() # a = 5, test = [0, 1, 4]
@@ -29,4 +29,4 @@ test + [1, 2] # [1, 2, 3, 1, 2]
 test * 3 # [1, 2, 3, 1, 2, 3, 1, 2, 3]
 
 len(test) # 3
-
+print(test)

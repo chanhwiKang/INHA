@@ -10,7 +10,7 @@ infos = {
         "major": "컴정"
         }
 }
-
+print(infos)
 print(infos["20230002"]["major"])
 print("-"*20)
 infos = {
