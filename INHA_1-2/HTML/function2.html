@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function pay(name, pays=9450, hours=40){
+            document.write(`# ${name}님의 급여 정보<br>`)
+            document.write(`시급${pays}<br>`)
+            document.write(`급여 ${pays * hours}원 입니다.<br>`)
+            document.write("<hr>")
+        }
+        // 이름만 전달
+        pay("구름")
+        // 이름과 시급 전달
+        pay("별", 10000)
+        //이름, 시급, 시간을 전달
+        pay("달", 15000, 25)
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

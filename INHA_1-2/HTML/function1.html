@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        function isLeapYear(year){
+            return (year%4===0) && (year%100 !==0) || (year%400===0)
+        }
+        let result = 0
+        function sum(start, end){
+            for (let i=start; i <= end; i++){
+                result += i
+            }
+            return result
+        }
+        document.write(`1~100의 합 ${sum(1, 100)}<br>`)
+        document.write(`1~500의 합 == ${sum(1, 500)}<br>`)
+        document.write(`2000년은 윤년? == ${isLeapYear(2000)}<br>`)
+        document.write(`1900년은 윤년? == ${isLeapYear(1900)}<br>`)
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

@@ -4,16 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script>
-        const array = ['a', 'b', 'c', 'd']
-
-        console.log('# for in 반복문')
-        array.forEach((item, i) => {
-            console.log(item)
-        })
-    </script>
+    <!-- <style>
+        ul li:nth-child(odd){
+            background-color: cadetblue;
+        }
+    </style> -->
 </head>
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const lists = document.querySelectorAll("li")
+        lists.forEach((lists, index) => {
+            if(index % 2 == 1){
+                lists.style.backgroundColor = "cadetblue"
+            }
+        })
+    })
+</script>
 <body>
-    
+    <h3>방학 중 가보고 싶은 지역</h3>
+    <ul>
+        <li>강원도</li>
+        <li>경기도</li>
+        <li>충청도</li>
+        <li>전라도</li>
+    </ul>
 </body>
 </html>
