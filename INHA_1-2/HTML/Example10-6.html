@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="js/jquery.js"></script>
+    <script>
+        $(function() {
+            let style_1 = {
+                "background-color":"#0ff",
+                "border":"2px solid #f00"
+            }
+            let style_2 = {
+                "background-color":"#ff0",
+                "border":"2px dashed #f00"
+            }
+            $(".txt").prev().css(style_1)
+            $(".txt + p").css(style_2)
+            $(".txt").next().next().css(style_2)
+        })
+    </script>
+</head>
+<body>
+    <div id="wrap">
+        <h1>인접 관계 연산자</h1>
+        <p>list1</p>
+        <p class="txt">list2</p>
+        <p>list3</p>
+        <p>list4</p>
+    </div>
+</body>
+</html>
