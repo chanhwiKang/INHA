@@ -2,8 +2,10 @@ package main
 
 import (
 	"fmt"
-	"week10/src/greeting"
-	"week10/src/mymath"
+
+	"go/week10/mymath"
+
+	"go/week10/greeting"
 )
 
 func main() {

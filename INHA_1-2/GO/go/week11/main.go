@@ -1,6 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"bufio"
+	"fmt"
+	"go/scanner"
+	"log"
+	"os"
+)
 
 func main() {
 	// var primes [3]int
@@ -24,4 +30,8 @@ func main() {
 	for i, prime := range primes {
 		fmt.Println(i, prime)
 	}
+	for _, prime := range primes {
+		fmt.Println(prime)
+	}
+
 }
