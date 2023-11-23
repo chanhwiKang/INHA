@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read Text File</title>
+    <script src="js/jquery.js"></script>
+    
+    <script>
+        function openTextFile(){
+            let input = document.createElement("input");
+            input.type = 'file';
+            input.accept = 'file/plain';
+            input.onchange = function(event){
+                let file = event.target.files[0];
+                let reader = new FileReader();
+                reader.onload = function() {
+                    output.innerText = reader.result;
+                };
+                reader.readAsText(file, "utf8");
+            };
+            input.click(); // 파일 입력 클릭 이벤트 트리거
+        }
+    </script>
+    <script>
+        $(function(){
+            baseFontSize = 14
+            $("#output").css("fontSize", 14);
+            $("#big").on("click", function(){
+                if (baseFontSize < 30){
+                    baseFontSize += 2
+                    $("#output").css("fontSize", baseFontSize);
+                }
+                $("#fontSize").text(baseFontSize + "px");
+            })
+            $("#small").on("click", function(){
+                if (baseFontSize > 10){
+                    baseFontSize -= 2
+                    $("#output").css("fontSize", baseFontSize);
+                }
+                $("#fontSize").text(baseFontSize + "px");
+            })
+            $("#init").on("click", function(){
+                baseFontSize = 14
+                $("#output").css("fontSize", baseFontSize);
+                $("#fontSize").text(baseFontSize + "px");
+            })
+        })
+    </script>
+</head>
+<body>
+
+<button onclick="openTextFile()">Open</button><br><br>
+<button id="small">-</button>
+<button id="init">100%</button>
+<button id="big">+</button>
+
+<hr>
+<p id="fontSize">14px</p>
+<pre id="output"></pre>
+
+</body>
+</html>
