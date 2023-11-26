@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://maps.googleapis.com/maps/api/js?
+key=AIzaSyA7Vfq0kNEM8-12E9B-xCXa2A9kA62cErQ&callback=initMap" defer></script>
+<script>
+    function initMap(obj) {
+        var mapDiv = document.getElementById('map');
+        var address = obj.value;
+
+        var map = new google.maps.Map(mapDiv, {
+            center: { lat: 37.7739, lng: -122.4194},
+            zoom: 14
+        });
+        function geocodeAddress(geocoder, map, address) {
+            geocoder.geocode({'address':address}, function (result, status) {
+                if (status === 'ok') {
+                    map.setCenter(result[0].geometry.location);
+                    var marker = new google.maps.Marker({
+                        map: map,
+                        position: result[0].geometry.location
+                    });
+                }else {
+                    alert('err' + status)
+                }
+            })
+            var geocoder = new google.maps.Geocoder();
+            geocodeAddress(geocoder, map, address)
+        }
+    }
+
+</script>
+<body>
+    <style>
+        #address, input[type="button"]{
+            font-size: 16px;
+        }
+    </style>
+    <h3>구글맵을 이용하여 원하는 위치를 검색하고, 해당 위치를 지도에 표시</h3><hr>
+    <form>
+        <input type="text" style="width: 400px;" id="address">
+        <input type="button" value="검색" onclick="initMap(address)">
+    </form><br><br>
+    <div id="map" style="height: 700px; width: 1200px;"></div>
+</body>
+</html>
