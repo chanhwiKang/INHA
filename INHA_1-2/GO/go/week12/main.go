@@ -15,8 +15,8 @@ func main() {
 
 	s[4] = 99
 
-	for _, v := range s {
-		fmt.Println(v)
+	for i, v := range s {
+		fmt.Println(i, v)
 	}
 
 	copyS := s[1:4]
@@ -34,10 +34,10 @@ func main() {
 	a[2] = "c"
 	a[3] = "d"
 
-	// fmt.Println(a, len(a), cap(a))
-	// fmt.Printf("%x %x %x\n", &a[0], &as[0], &a[1])
-	// c := append(a, "y") // cap이 충분해서 늘어나지 않는다
-	c := append(a, "y", "x") // cap이 부족해서 늘어남
+	fmt.Println(a, len(a), cap(a))
+	fmt.Printf("%x %x %x\n", &a[0], &a[0], &a[1])
+	c := append(a, "y") // cap이 충분해서 늘어나지 않는다
+	// c := append(a, "y", "x") // cap이 부족해서 늘어남
 	fmt.Println(a, len(a), cap(a))
 	fmt.Println(c, len(c), cap(c)) // len이 cap을 넘어서면 cap이 기존 cap의 배수만큼 늘어남
 }

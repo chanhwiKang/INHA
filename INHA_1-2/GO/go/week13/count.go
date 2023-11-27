@@ -29,7 +29,7 @@ func GetStrings(fileName string) ([]string, error) {
 }
 
 func main() {
-	lines, err := GetStrings("votes.txt")
+	lines, err := GetStrings("/Users/gangchanhwi/Desktop/INHA/INHA_1-2/GO/go/week13/votes.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
