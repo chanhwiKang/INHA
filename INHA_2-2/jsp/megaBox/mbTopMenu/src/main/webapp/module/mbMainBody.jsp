@@ -14,9 +14,11 @@
 	}
 	#body-div{
 		background-color: rgba(0,0,0,0.8);
+		overflow: hidden;
 		width: 100%;
-		height: 1080px;
-	}
+	
+		height: 100vh; /* 뷰포트의 전체 높이 사용 */
+    }
 	.btn-primary{
 		width: 245px;
 		background: #037b94;
@@ -129,22 +131,22 @@
 </div>
 <div class="content-container">
 	<div class="poster-div">
-		<img src="image/poster1.jpeg" alt="Poster 1" class="poster" width="245" height="325">
+		<img src="../image/poster1.jpeg" alt="Poster 1" class="poster" width="245" height="325">
 		<div class="rank">1</div><br>
 		<a class="btn btn-primary" href="#123" role="button">예매</a>
 	</div>
 	<div class="poster-div">
-		<img src="image/poster2.jpg" alt="Poster 2" class="poster" width="245" height="325">
+		<img src="../image/poster2.jpg" alt="Poster 2" class="poster" width="245" height="325">
 		<div class="rank">2</div><br>
 		<a class="btn btn-primary" href="#" role="button">예매</a>
 	</div>
 	<div class="poster-div">
-		<img src="image/poster3.jpg" alt="Poster 3" class="poster" width="245" height="325">
+		<img src="../image/poster3.jpg" alt="Poster 3" class="poster" width="245" height="325">
 		<div class="rank">3</div><br>
 		<a class="btn btn-primary" href="#" role="button">예매</a>
 	</div>
 	<div class="poster-div">
-		<img src="image/poster4.jpeg" alt="Poster 4" class="poster" width="245" height="325">
+		<img src="../image/poster4.jpeg" alt="Poster 4" class="poster" width="245" height="325">
 		<div class="rank">4</div><br>
 		<a class="btn btn-primary" href="#" role="button">예매</a>
 	</div>
@@ -158,18 +160,17 @@
 					<form class="d-flex" role="search">
 						<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
 						<button type="button" class="btn search-btn" id="btnSearch">
-							<img src="image/ico-search-white.png"></button>
+							<img src="../image/ico-search-white.png"></button>
 					</form>
 				</div>
 				<div class="nav-div">
-					<a class="nav-link" href="#">박스오피스</a>
+					<a class="nav-link" href="mbAllMoviePage.jsp">박스오피스</a>
 				</div><div class="nav-div">
 					<a class="nav-link" href="#">예매</a>
 				</div>
 			</div>
 		</div>
 	</div>
-
 </nav>
 </div>
 </body>

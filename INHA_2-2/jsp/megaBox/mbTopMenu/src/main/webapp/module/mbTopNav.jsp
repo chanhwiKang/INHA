@@ -49,13 +49,13 @@
 <header style="width: 100%; height: 88px;">
 	<ul class="nav nav-underline">
 	  <li class="nav-item">
-	    <a class="nav-link top-nav" href="#">영화</a>
+	    <a class="nav-link top-nav" href="mbAllMoviePage.jsp">영화</a>
 	  </li>
 	  <li class="nav-item">
 	    <a class="nav-link top-nav" href="#">예매</a>
 	  </li>
 	  <li class="nav-item">
-	    <a class="nav-link top-nav" href="#"><img src="image/testLogo.png" alt="Logo" class="logo-size"></a>
+	    <a class="nav-link top-nav" href="mbMainPage.jsp"><img src="../image/logo.jpg" alt="Logo" class="logo-size"></a>
 	  </li>
 	  <li class="nav-item">
 	    <a class="nav-link top-nav" href="#">로그인</a>

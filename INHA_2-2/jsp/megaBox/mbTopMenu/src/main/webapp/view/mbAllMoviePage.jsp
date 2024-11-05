@@ -10,8 +10,8 @@
 </style>
 </head>
 <body>
-<!-- mbMainPage.jsp -->
-<jsp:include page="mbTopMenu.jsp"></jsp:include>
-<jsp:include page="mbMainBody.jsp"></jsp:include>
+<!-- mbAllMoviePage.jsp -->
+<jsp:include page="/module/mbTopNav.jsp"></jsp:include>
+<jsp:include page="/module/mbAllMovieBody.jsp"></jsp:include>
 </body>
 </html>
