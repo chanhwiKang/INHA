@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|c:\\users\\cksgn\\source\\repos\\student_score\\6_11_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|solutionrelative:6_11_prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|c:\\users\\cksgn\\source\\repos\\student_score\\6_11_prac\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|solutionrelative:6_11_prac\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|c:\\users\\cksgn\\source\\repos\\student_score\\6_11_prac\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A89B31-3C47-4400-B608-3F8AC55E8565}|6_11_prac\\6_11_prac.csproj|solutionrelative:6_11_prac\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Program.cs",
+              "RelativeDocumentMoniker": "6_11_prac\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Program.cs",
+              "RelativeToolTip": "6_11_prac\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:51:13.245Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Score.cs",
+              "RelativeDocumentMoniker": "6_11_prac\\Score.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Score.cs",
+              "RelativeToolTip": "6_11_prac\\Score.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:52:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Student.cs",
+              "RelativeDocumentMoniker": "6_11_prac\\Student.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Student_Score\\6_11_prac\\Student.cs",
+              "RelativeToolTip": "6_11_prac\\Student.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T08:53:12.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

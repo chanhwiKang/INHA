@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\obj\Debug\streamPrec.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\obj\Debug\streamPrec.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\bin\Debug\streamPrec.exe.config
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\bin\Debug\streamPrec.exe
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\bin\Debug\streamPrec.pdb
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\obj\Debug\streamPrec.exe
+C:\Users\cksgn\source\repos\FileIOTest1\streamPrec\obj\Debug\streamPrec.pdb

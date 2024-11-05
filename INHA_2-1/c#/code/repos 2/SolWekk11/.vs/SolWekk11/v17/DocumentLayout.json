@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\toaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\toaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\grill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\grill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|c:\\users\\cksgn\\source\\repos\\solwekk11\\projbakery\\icookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E39C73-B8D5-42B5-89E1-D4671C263B2F}|ProjBakery\\ProjBakery.csproj|solutionrelative:projbakery\\icookable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grill.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Grill.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Grill.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Grill.cs",
+              "RelativeToolTip": "ProjBakery\\Grill.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:23:32.194Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Meat.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Meat.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Meat.cs",
+              "RelativeToolTip": "ProjBakery\\Meat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:06:33.791Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Toaster.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Toaster.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Toaster.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Toaster.cs",
+              "RelativeToolTip": "ProjBakery\\Toaster.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAywCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:08:21.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICookable.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\ICookable.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\ICookable.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\ICookable.cs",
+              "RelativeToolTip": "ProjBakery\\ICookable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:02:21.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Bread.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Bread.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Bread.cs",
+              "RelativeToolTip": "ProjBakery\\Bread.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:03:29.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Program.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Program.cs",
+              "RelativeToolTip": "ProjBakery\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:52:19.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Food.cs",
+              "RelativeDocumentMoniker": "ProjBakery\\Food.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWekk11\\ProjBakery\\Food.cs",
+              "RelativeToolTip": "ProjBakery\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:58.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

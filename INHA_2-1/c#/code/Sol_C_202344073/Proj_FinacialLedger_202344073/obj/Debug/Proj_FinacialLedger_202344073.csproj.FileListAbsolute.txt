@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\bin\Debug\Proj_FinacialLedger_202344073.exe.config
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\bin\Debug\Proj_FinacialLedger_202344073.exe
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\bin\Debug\Proj_FinacialLedger_202344073.pdb
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\obj\Debug\Proj_FinacialLedger_202344073.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\obj\Debug\Proj_FinacialLedger_202344073.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\obj\Debug\Proj_FinacialLedger_202344073.exe
+C:\Users\cksgn\source\repos\Sol_C_202344073\Proj_FinacialLedger_202344073\obj\Debug\Proj_FinacialLedger_202344073.pdb

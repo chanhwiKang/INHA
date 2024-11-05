@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\bin\Debug\projStream.exe.config
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\bin\Debug\projStream.exe
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\bin\Debug\projStream.pdb
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\obj\Debug\projStream.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\obj\Debug\projStream.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\obj\Debug\projStream.exe
+C:\Users\cksgn\source\repos\SolWeek12C\projStream\obj\Debug\projStream.pdb

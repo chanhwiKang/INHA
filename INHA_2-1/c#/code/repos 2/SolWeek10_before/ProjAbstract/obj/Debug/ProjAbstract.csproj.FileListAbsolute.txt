@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\bin\Debug\ProjAbstract.exe.config
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\bin\Debug\ProjAbstract.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\bin\Debug\ProjAbstract.pdb
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\obj\Debug\ProjAbstract.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\obj\Debug\ProjAbstract.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\obj\Debug\ProjAbstract.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjAbstract\obj\Debug\ProjAbstract.pdb

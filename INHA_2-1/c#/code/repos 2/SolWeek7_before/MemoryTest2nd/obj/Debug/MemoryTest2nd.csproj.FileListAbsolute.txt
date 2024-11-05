@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\obj\Debug\MemoryTest2nd.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\obj\Debug\MemoryTest2nd.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\bin\Debug\MemoryTest2nd.exe.config
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\bin\Debug\MemoryTest2nd.exe
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\bin\Debug\MemoryTest2nd.pdb
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\obj\Debug\MemoryTest2nd.exe
+C:\Users\cksgn\source\repos\SolWeek7_before\MemoryTest2nd\obj\Debug\MemoryTest2nd.pdb

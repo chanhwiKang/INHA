@@ -1,0 +1,14 @@
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\bin\Debug\Projw2.exe.config
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\bin\Debug\Projw2.exe
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\bin\Debug\Projw2.pdb
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\obj\Debug\Proj1.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\obj\Debug\Projw2.exe
+C:\Users\cksgn\source\repos\SolWeek2C\Projw2\obj\Debug\Projw2.pdb
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\bin\Debug\Projw2.exe.config
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\bin\Debug\Projw2.exe
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\bin\Debug\Projw2.pdb
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\obj\Debug\Proj1.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\obj\Debug\Projw2.exe
+C:\Users\cksgn\source\repos\SolWeek2C\Proj1\obj\Debug\Projw2.pdb

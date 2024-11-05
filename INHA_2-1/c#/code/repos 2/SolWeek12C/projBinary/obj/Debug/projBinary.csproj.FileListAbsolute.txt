@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\bin\Debug\projBinary.exe.config
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\bin\Debug\projBinary.exe
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\bin\Debug\projBinary.pdb
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\obj\Debug\projBinary.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\obj\Debug\projBinary.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\obj\Debug\projBinary.exe
+C:\Users\cksgn\source\repos\SolWeek12C\projBinary\obj\Debug\projBinary.pdb

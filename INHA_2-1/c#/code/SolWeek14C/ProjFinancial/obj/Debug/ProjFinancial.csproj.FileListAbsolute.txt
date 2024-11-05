@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\bin\Debug\ProjFinancial.exe.config
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\bin\Debug\ProjFinancial.exe
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\bin\Debug\ProjFinancial.pdb
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\bin\Debug\Financial.dll
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\bin\Debug\Financial.pdb
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.csproj.CopyComplete
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.exe
+C:\Users\PC\Desktop\202322053_2\SolWeek14C\ProjFinancial\obj\Debug\ProjFinancial.pdb

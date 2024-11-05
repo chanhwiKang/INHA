@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"go/week10/mymath"
+	"week10/mymath"
 
-	"go/week10/greeting"
+	"week10/greeting"
 )
 
 func main() {

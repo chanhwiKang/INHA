@@ -1,0 +1,2 @@
+int numResult1 = (int.TryParse("5", out numResult1)) ? numResult1 : -1;
+Console.WriteLine(numResult1);생성자 오버로딩 

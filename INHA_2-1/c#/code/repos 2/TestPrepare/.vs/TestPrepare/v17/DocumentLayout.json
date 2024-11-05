@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175C1A0E-65BF-46CC-815F-4ACD91F023A4}|Example\\Example.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175C1A0E-65BF-46CC-815F-4ACD91F023A4}|Example\\Example.csproj|solutionrelative:example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1CA80-BE3A-46FB-AD52-A6879DA4F9D2}|Proj2\\Proj2.csproj|c:\\users\\cksgn\\source\\repos\\testprepare\\proj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1CA80-BE3A-46FB-AD52-A6879DA4F9D2}|Proj2\\Proj2.csproj|solutionrelative:proj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B78E47-0B4E-435D-8790-1BCB44DC3BE7}|Proj3\\Proj3.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj3\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B78E47-0B4E-435D-8790-1BCB44DC3BE7}|Proj3\\Proj3.csproj|solutionrelative:proj3\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F1CA80-BE3A-46FB-AD52-A6879DA4F9D2}|Proj2\\Proj2.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj2\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F1CA80-BE3A-46FB-AD52-A6879DA4F9D2}|Proj2\\Proj2.csproj|solutionrelative:proj2\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj1.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj1.csproj|solutionrelative:proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj1.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj1.csproj|solutionrelative:proj\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D978BFD0-29CC-428F-AFEA-3E5B8A1F43E7}|Proj\\Proj.csproj|solutionrelative:proj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B79E79-504C-45A5-A02A-A11D88A5380C}|Proj7\\Proj7.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B79E79-504C-45A5-A02A-A11D88A5380C}|Proj7\\Proj7.csproj|solutionrelative:proj7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B79E79-504C-45A5-A02A-A11D88A5380C}|Proj7\\Proj7.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B79E79-504C-45A5-A02A-A11D88A5380C}|Proj7\\Proj7.csproj|solutionrelative:proj7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364F04ED-0E7C-4104-9CE0-9630DE0CF0FF}|Proj6\\Proj6.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364F04ED-0E7C-4104-9CE0-9630DE0CF0FF}|Proj6\\Proj6.csproj|solutionrelative:proj6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364F04ED-0E7C-4104-9CE0-9630DE0CF0FF}|Proj6\\Proj6.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364F04ED-0E7C-4104-9CE0-9630DE0CF0FF}|Proj6\\Proj6.csproj|solutionrelative:proj6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C0756-B512-44CB-BE3E-B0B428D1A390}|Proj5\\Proj5.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj5\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C0756-B512-44CB-BE3E-B0B428D1A390}|Proj5\\Proj5.csproj|solutionrelative:proj5\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC8C0756-B512-44CB-BE3E-B0B428D1A390}|Proj5\\Proj5.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC8C0756-B512-44CB-BE3E-B0B428D1A390}|Proj5\\Proj5.csproj|solutionrelative:proj5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7326-F81D-48DE-968C-D332280EC1FE}|Proj4\\Proj4.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7326-F81D-48DE-968C-D332280EC1FE}|Proj4\\Proj4.csproj|solutionrelative:proj4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B78E47-0B4E-435D-8790-1BCB44DC3BE7}|Proj3\\Proj3.csproj|C:\\Users\\cksgn\\source\\repos\\TestPrepare\\proj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B78E47-0B4E-435D-8790-1BCB44DC3BE7}|Proj3\\Proj3.csproj|solutionrelative:proj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\Program.cs",
+              "RelativeDocumentMoniker": "Proj\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\Program.cs",
+              "RelativeToolTip": "Proj\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T05:00:21.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Example\\Program.cs",
+              "RelativeDocumentMoniker": "Example\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Example\\Program.cs",
+              "RelativeToolTip": "Example\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAywBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T03:03:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj7\\Employee.cs",
+              "RelativeDocumentMoniker": "Proj7\\Employee.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj7\\Employee.cs",
+              "RelativeToolTip": "Proj7\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:46:52.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj7\\Program.cs",
+              "RelativeDocumentMoniker": "Proj7\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj7\\Program.cs",
+              "RelativeToolTip": "Proj7\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:46:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj6\\Account.cs",
+              "RelativeDocumentMoniker": "Proj6\\Account.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj6\\Account.cs",
+              "RelativeToolTip": "Proj6\\Account.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:41:49.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj6\\Program.cs",
+              "RelativeDocumentMoniker": "Proj6\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj6\\Program.cs",
+              "RelativeToolTip": "Proj6\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:41:36.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj5\\Team.cs",
+              "RelativeDocumentMoniker": "Proj5\\Team.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj5\\Team.cs",
+              "RelativeToolTip": "Proj5\\Team.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAASwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:31:52.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj5\\Program.cs",
+              "RelativeDocumentMoniker": "Proj5\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj5\\Program.cs",
+              "RelativeToolTip": "Proj5\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:31:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj4\\Program.cs",
+              "RelativeDocumentMoniker": "Proj4\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj4\\Program.cs",
+              "RelativeToolTip": "Proj4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:04:25.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rect.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj3\\Rect.cs",
+              "RelativeDocumentMoniker": "Proj3\\Rect.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj3\\Rect.cs",
+              "RelativeToolTip": "Proj3\\Rect.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAA2wDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:54:42.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj3\\Program.cs",
+              "RelativeDocumentMoniker": "Proj3\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj3\\Program.cs",
+              "RelativeToolTip": "Proj3\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:54:31.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj2\\Score.cs",
+              "RelativeDocumentMoniker": "Proj2\\Score.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj2\\Score.cs",
+              "RelativeToolTip": "Proj2\\Score.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:46:39.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj2\\Program.cs",
+              "RelativeDocumentMoniker": "Proj2\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj2\\Program.cs",
+              "RelativeToolTip": "Proj2\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAowCwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:46:24.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressBook.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\AddressBook.cs",
+              "RelativeDocumentMoniker": "Proj\\AddressBook.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\AddressBook.cs",
+              "RelativeToolTip": "Proj\\AddressBook.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAywBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:36:01.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\Program.cs",
+              "RelativeDocumentMoniker": "Proj\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\TestPrepare\\Proj\\Program.cs",
+              "RelativeToolTip": "Proj\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA7wBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:12:25.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

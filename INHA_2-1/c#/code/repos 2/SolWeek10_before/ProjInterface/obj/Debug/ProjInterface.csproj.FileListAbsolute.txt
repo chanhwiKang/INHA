@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\bin\Debug\ProjInterface.exe.config
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\bin\Debug\ProjInterface.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\bin\Debug\ProjInterface.pdb
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\obj\Debug\ProjInterface.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\obj\Debug\ProjInterface.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\obj\Debug\ProjInterface.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjInterface\obj\Debug\ProjInterface.pdb

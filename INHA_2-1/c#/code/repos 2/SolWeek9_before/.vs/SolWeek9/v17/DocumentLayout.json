@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD7D4A61-2247-458E-BF22-885EAF7682D7}|ProjInheritance\\ProjInheritance.csproj|c:\\users\\cksgn\\source\\repos\\solweek9_before\\projinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD7D4A61-2247-458E-BF22-885EAF7682D7}|ProjInheritance\\ProjInheritance.csproj|solutionrelative:projinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75102E76-6DF5-460A-BD95-C945D0F49943}|BankSystem\\BankSystem.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75102E76-6DF5-460A-BD95-C945D0F49943}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F8B7E-B46C-4665-B070-FCE39D3A23E4}|Proj8\\Proj8.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\proj8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4F8B7E-B46C-4665-B070-FCE39D3A23E4}|Proj8\\Proj8.csproj|solutionrelative:proj8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C46616D-7905-4462-A29E-DE716288058E}|CollectionExam\\CollectionExam.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\collectionexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C46616D-7905-4462-A29E-DE716288058E}|CollectionExam\\CollectionExam.csproj|solutionrelative:collectionexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60897F26-6CB7-421A-A4CF-CBDE067EE553}|MemoryTest\\MemoryTest.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\memorytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60897F26-6CB7-421A-A4CF-CBDE067EE553}|MemoryTest\\MemoryTest.csproj|solutionrelative:memorytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Proj8||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F8B7E-B46C-4665-B070-FCE39D3A23E4}|Proj8\\Proj8.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\proj8\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4F8B7E-B46C-4665-B070-FCE39D3A23E4}|Proj8\\Proj8.csproj|solutionrelative:proj8\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60897F26-6CB7-421A-A4CF-CBDE067EE553}|MemoryTest\\MemoryTest.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\memorytest\\valuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60897F26-6CB7-421A-A4CF-CBDE067EE553}|MemoryTest\\MemoryTest.csproj|solutionrelative:memorytest\\valuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\ProjInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ProjInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\ProjInheritance\\Program.cs",
+              "RelativeToolTip": "ProjInheritance\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswD0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:57:01.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\BankSystem\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\BankSystem\\Program.cs",
+              "RelativeToolTip": "BankSystem\\Program.cs",
+              "ViewState": "AQIAAMcEAAAAAAAAAAAswNAEAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T04:22:21.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proj8",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Proj8.csproj",
+              "RelativeDocumentMoniker": "Proj8\\Proj8.csproj",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Proj8.csproj",
+              "RelativeToolTip": "Proj8\\Proj8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-15T04:07:50.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Bus.cs",
+              "RelativeDocumentMoniker": "Proj8\\Bus.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Bus.cs",
+              "RelativeToolTip": "Proj8\\Bus.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA3wEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:51:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Program.cs",
+              "RelativeDocumentMoniker": "Proj8\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\Proj8\\Program.cs",
+              "RelativeToolTip": "Proj8\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:51:08.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\CollectionExam\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionExam\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\CollectionExam\\Program.cs",
+              "RelativeToolTip": "CollectionExam\\Program.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAswHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:46:56.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\MemoryTest\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryTest\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\MemoryTest\\Program.cs",
+              "RelativeToolTip": "MemoryTest\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:37:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValueType.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\MemoryTest\\ValueType.cs",
+              "RelativeDocumentMoniker": "MemoryTest\\ValueType.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek9_before\\MemoryTest\\ValueType.cs",
+              "RelativeToolTip": "MemoryTest\\ValueType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:37:16.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

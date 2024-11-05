@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\bin\Debug\ProjConsole202344073.exe.config
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\bin\Debug\ProjConsole202344073.exe
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\bin\Debug\ProjConsole202344073.pdb
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\obj\Debug\ProjConsole202344073.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\obj\Debug\ProjConsole202344073.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\obj\Debug\ProjConsole202344073.exe
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjConsole202344073\obj\Debug\ProjConsole202344073.pdb

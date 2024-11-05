@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|c:\\users\\cksgn\\source\\repos\\sol_c_202344073\\proj_finacialledger_202344073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|solutionrelative:proj_finacialledger_202344073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\proj_finacialledger_202344073\\financial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|solutionrelative:proj_finacialledger_202344073\\financial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\proj_finacialledger_202344073\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|solutionrelative:proj_finacialledger_202344073\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\proj_finacialledger_202344073\\financialledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44E24FDB-B6CC-4529-92FD-1125BFD3238E}|Proj_FinacialLedger_202344073\\Proj_FinacialLedger_202344073.csproj|solutionrelative:proj_finacialledger_202344073\\financialledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Financial.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Financial.cs",
+              "RelativeDocumentMoniker": "Proj_FinacialLedger_202344073\\Financial.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Financial.cs",
+              "RelativeToolTip": "Proj_FinacialLedger_202344073\\Financial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:31:40.26Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Info.cs",
+              "RelativeDocumentMoniker": "Proj_FinacialLedger_202344073\\Info.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Info.cs",
+              "RelativeToolTip": "Proj_FinacialLedger_202344073\\Info.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:31:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinancialLedger.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\FinancialLedger.cs",
+              "RelativeDocumentMoniker": "Proj_FinacialLedger_202344073\\FinancialLedger.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\FinancialLedger.cs",
+              "RelativeToolTip": "Proj_FinacialLedger_202344073\\FinancialLedger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:01:32.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Program.cs",
+              "RelativeDocumentMoniker": "Proj_FinacialLedger_202344073\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\Sol_C_202344073\\Proj_FinacialLedger_202344073\\Program.cs",
+              "RelativeToolTip": "Proj_FinacialLedger_202344073\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:28:28.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

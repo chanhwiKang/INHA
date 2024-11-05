@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\bin\Debug\ProjPolymorphism.exe.config
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\bin\Debug\ProjPolymorphism.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\bin\Debug\ProjPolymorphism.pdb
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\obj\Debug\ProjPolymorphism.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\obj\Debug\ProjPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\obj\Debug\ProjPolymorphism.exe
+C:\Users\cksgn\source\repos\SolWeek10_before\ProjPolymorphism\obj\Debug\ProjPolymorphism.pdb

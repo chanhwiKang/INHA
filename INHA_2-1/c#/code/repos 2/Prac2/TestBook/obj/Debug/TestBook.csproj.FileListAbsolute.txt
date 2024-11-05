@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Prac2\TestBook\obj\Debug\TestBook.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Prac2\TestBook\obj\Debug\TestBook.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Prac2\TestBook\bin\Debug\TestBook.exe.config
+C:\Users\cksgn\source\repos\Prac2\TestBook\bin\Debug\TestBook.exe
+C:\Users\cksgn\source\repos\Prac2\TestBook\bin\Debug\TestBook.pdb
+C:\Users\cksgn\source\repos\Prac2\TestBook\obj\Debug\TestBook.exe
+C:\Users\cksgn\source\repos\Prac2\TestBook\obj\Debug\TestBook.pdb

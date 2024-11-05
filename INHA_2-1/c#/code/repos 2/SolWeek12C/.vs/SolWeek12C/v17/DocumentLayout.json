@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23DCC797-0E08-496F-A086-C0DA42DA9883}|projStream\\projStream.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23DCC797-0E08-496F-A086-C0DA42DA9883}|projStream\\projStream.csproj|solutionrelative:projstream\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F690072-B608-4CA0-B540-80B7AAA4E7AF}|projBinary\\projBinary.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F690072-B608-4CA0-B540-80B7AAA4E7AF}|projBinary\\projBinary.csproj|solutionrelative:projbinary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1013AC4-C50F-4C2B-A329-8C7B3CA720F8}|projCommon\\projCommon.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projcommon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1013AC4-C50F-4C2B-A329-8C7B3CA720F8}|projCommon\\projCommon.csproj|solutionrelative:projcommon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26285C9-BFC8-412F-B982-EB9B1B3703AD}|projExample\\projExample.csproj|c:\\users\\cksgn\\source\\repos\\solweek12c\\projexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26285C9-BFC8-412F-B982-EB9B1B3703AD}|projExample\\projExample.csproj|solutionrelative:projexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projBinary\\Program.cs",
+              "RelativeDocumentMoniker": "projBinary\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projBinary\\Program.cs",
+              "RelativeToolTip": "projBinary\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:13:19.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projCommon\\Program.cs",
+              "RelativeDocumentMoniker": "projCommon\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projCommon\\Program.cs",
+              "RelativeToolTip": "projCommon\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:13:02.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projExample\\Program.cs",
+              "RelativeDocumentMoniker": "projExample\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projExample\\Program.cs",
+              "RelativeToolTip": "projExample\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:11:56.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projStream\\Program.cs",
+              "RelativeDocumentMoniker": "projStream\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek12C\\projStream\\Program.cs",
+              "RelativeToolTip": "projStream\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:11:42.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

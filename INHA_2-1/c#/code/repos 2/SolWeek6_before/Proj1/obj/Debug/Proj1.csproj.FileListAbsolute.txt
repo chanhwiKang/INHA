@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\obj\Debug\Proj1.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\bin\Debug\Proj1.exe.config
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\bin\Debug\Proj1.exe
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\bin\Debug\Proj1.pdb
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\obj\Debug\Proj1.exe
+C:\Users\cksgn\source\repos\SolWeek6_before\Proj1\obj\Debug\Proj1.pdb

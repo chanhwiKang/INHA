@@ -1,7 +1,6 @@
 #include <stdio.h> 
 int GetUserInput(int x);
 int Gugudan(int x, int y);
-
 int main(){
     int t1,t2;
     int input[2]={};

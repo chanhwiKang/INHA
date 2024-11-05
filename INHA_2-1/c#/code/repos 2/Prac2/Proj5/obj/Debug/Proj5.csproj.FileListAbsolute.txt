@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Prac2\Proj5\bin\Debug\Proj5.exe.config
+C:\Users\cksgn\source\repos\Prac2\Proj5\bin\Debug\Proj5.exe
+C:\Users\cksgn\source\repos\Prac2\Proj5\bin\Debug\Proj5.pdb
+C:\Users\cksgn\source\repos\Prac2\Proj5\obj\Debug\Proj5.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Prac2\Proj5\obj\Debug\Proj5.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Prac2\Proj5\obj\Debug\Proj5.exe
+C:\Users\cksgn\source\repos\Prac2\Proj5\obj\Debug\Proj5.pdb

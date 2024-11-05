@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\TestPrepare\Proj\bin\Debug\Proj.exe.config
+C:\Users\cksgn\source\repos\TestPrepare\Proj\bin\Debug\Proj.exe
+C:\Users\cksgn\source\repos\TestPrepare\Proj\bin\Debug\Proj.pdb
+C:\Users\cksgn\source\repos\TestPrepare\Proj\obj\Debug\Proj1.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\TestPrepare\Proj\obj\Debug\Proj1.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\TestPrepare\Proj\obj\Debug\Proj.exe
+C:\Users\cksgn\source\repos\TestPrepare\Proj\obj\Debug\Proj.pdb

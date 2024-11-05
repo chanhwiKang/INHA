@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\bin\Debug\W7practice1.exe.config
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\bin\Debug\W7practice1.exe
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\bin\Debug\W7practice1.pdb
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\obj\Debug\W7practice1.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\obj\Debug\W7practice1.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\obj\Debug\W7practice1.exe
+C:\Users\cksgn\source\repos\SolWeek7_before\W7practice1\obj\Debug\W7practice1.pdb

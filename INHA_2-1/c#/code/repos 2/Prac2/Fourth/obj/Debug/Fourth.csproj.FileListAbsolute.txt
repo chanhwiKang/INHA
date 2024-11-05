@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Prac2\Fourth\bin\Debug\Fourth.exe.config
+C:\Users\cksgn\source\repos\Prac2\Fourth\bin\Debug\Fourth.exe
+C:\Users\cksgn\source\repos\Prac2\Fourth\bin\Debug\Fourth.pdb
+C:\Users\cksgn\source\repos\Prac2\Fourth\obj\Debug\Fourth.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Prac2\Fourth\obj\Debug\Fourth.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Prac2\Fourth\obj\Debug\Fourth.exe
+C:\Users\cksgn\source\repos\Prac2\Fourth\obj\Debug\Fourth.pdb

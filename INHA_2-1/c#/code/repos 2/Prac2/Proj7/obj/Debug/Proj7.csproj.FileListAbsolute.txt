@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Prac2\Proj7\bin\Debug\Proj7.exe.config
+C:\Users\cksgn\source\repos\Prac2\Proj7\bin\Debug\Proj7.exe
+C:\Users\cksgn\source\repos\Prac2\Proj7\bin\Debug\Proj7.pdb
+C:\Users\cksgn\source\repos\Prac2\Proj7\obj\Debug\Proj7.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Prac2\Proj7\obj\Debug\Proj7.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Prac2\Proj7\obj\Debug\Proj7.exe
+C:\Users\cksgn\source\repos\Prac2\Proj7\obj\Debug\Proj7.pdb

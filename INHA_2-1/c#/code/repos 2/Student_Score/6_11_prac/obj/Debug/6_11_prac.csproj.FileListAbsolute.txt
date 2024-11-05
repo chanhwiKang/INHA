@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\bin\Debug\6_11_prac.exe.config
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\bin\Debug\6_11_prac.exe
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\bin\Debug\6_11_prac.pdb
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\obj\Debug\6_11_prac.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\obj\Debug\6_11_prac.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\obj\Debug\6_11_prac.exe
+C:\Users\cksgn\source\repos\Student_Score\6_11_prac\obj\Debug\6_11_prac.pdb

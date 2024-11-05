@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC98F9-E0E2-4E46-B27D-828C11F24963}|Proj5\\Proj5.csproj|c:\\users\\cksgn\\source\\repos\\solweek3_befor\\proj5\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC98F9-E0E2-4E46-B27D-828C11F24963}|Proj5\\Proj5.csproj|solutionrelative:proj5\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45CC98F9-E0E2-4E46-B27D-828C11F24963}|Proj5\\Proj5.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CC98F9-E0E2-4E46-B27D-828C11F24963}|Proj5\\Proj5.csproj|solutionrelative:proj5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D86D2A7-4855-42ED-A528-520C7AC952F8}|Proj7\\Proj7.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D86D2A7-4855-42ED-A528-520C7AC952F8}|Proj7\\Proj7.csproj|solutionrelative:proj7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D86D2A7-4855-42ED-A528-520C7AC952F8}|Proj7\\Proj7.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D86D2A7-4855-42ED-A528-520C7AC952F8}|Proj7\\Proj7.csproj|solutionrelative:proj7\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9954B56-1195-4786-8BDA-A296772B38EE}|Proj3\\Proj3.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9954B56-1195-4786-8BDA-A296772B38EE}|Proj3\\Proj3.csproj|solutionrelative:proj3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9954B56-1195-4786-8BDA-A296772B38EE}|Proj3\\Proj3.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj3\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9954B56-1195-4786-8BDA-A296772B38EE}|Proj3\\Proj3.csproj|solutionrelative:proj3\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205EC786-5C1D-49CD-AAC2-DBF10752987A}|Proj6\\Proj6.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205EC786-5C1D-49CD-AAC2-DBF10752987A}|Proj6\\Proj6.csproj|solutionrelative:proj6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205EC786-5C1D-49CD-AAC2-DBF10752987A}|Proj6\\Proj6.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205EC786-5C1D-49CD-AAC2-DBF10752987A}|Proj6\\Proj6.csproj|solutionrelative:proj6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3DF4-7ABD-46AF-8BD6-0C7A530EDA0A}|Proj4\\Proj4.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj4\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3DF4-7ABD-46AF-8BD6-0C7A530EDA0A}|Proj4\\Proj4.csproj|solutionrelative:proj4\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{732C3DF4-7ABD-46AF-8BD6-0C7A530EDA0A}|Proj4\\Proj4.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{732C3DF4-7ABD-46AF-8BD6-0C7A530EDA0A}|Proj4\\Proj4.csproj|solutionrelative:proj4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|solutionrelative:proj2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Proj7||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|solutionrelative:proj2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj1\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|solutionrelative:proj1\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj1\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|solutionrelative:proj1\\addressbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj2\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272FA856-9EEF-4D9E-A69F-2C410BE23F30}|Proj2\\Proj2.csproj|solutionrelative:proj2\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\proj1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D30C059F-8E3C-4CFB-B5E3-4BBBC3040890}|Proj1\\Proj1.csproj|solutionrelative:proj1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\Score.cs",
+              "RelativeDocumentMoniker": "Proj2\\Score.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\Score.cs",
+              "RelativeToolTip": "Proj2\\Score.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:03:55.023Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj5\\Team.cs",
+              "RelativeDocumentMoniker": "Proj5\\Team.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj5\\Team.cs",
+              "RelativeToolTip": "Proj5\\Team.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:28:15.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rect.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj3\\Rect.cs",
+              "RelativeDocumentMoniker": "Proj3\\Rect.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj3\\Rect.cs",
+              "RelativeToolTip": "Proj3\\Rect.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAtwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:22:20.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj6\\Program.cs",
+              "RelativeDocumentMoniker": "Proj6\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj6\\Program.cs",
+              "RelativeToolTip": "Proj6\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:20:58.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj3\\Program.cs",
+              "RelativeDocumentMoniker": "Proj3\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj3\\Program.cs",
+              "RelativeToolTip": "Proj3\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:20:24.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj5\\Program.cs",
+              "RelativeDocumentMoniker": "Proj5\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj5\\Program.cs",
+              "RelativeToolTip": "Proj5\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA7wBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:20:46.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj6\\Account.cs",
+              "RelativeDocumentMoniker": "Proj6\\Account.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj6\\Account.cs",
+              "RelativeToolTip": "Proj6\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:32:01.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Employee.cs",
+              "RelativeDocumentMoniker": "Proj7\\Employee.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Employee.cs",
+              "RelativeToolTip": "Proj7\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T07:35:56.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Program.cs",
+              "RelativeDocumentMoniker": "Proj7\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Program.cs",
+              "RelativeToolTip": "Proj7\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA1wBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:30:13.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj4\\Member.cs",
+              "RelativeDocumentMoniker": "Proj4\\Member.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj4\\Member.cs",
+              "RelativeToolTip": "Proj4\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAWwAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:24:49.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj4\\Program.cs",
+              "RelativeDocumentMoniker": "Proj4\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj4\\Program.cs",
+              "RelativeToolTip": "Proj4\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:20:33.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Proj7",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Proj7.csproj",
+              "RelativeDocumentMoniker": "Proj7\\Proj7.csproj",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj7\\Proj7.csproj",
+              "RelativeToolTip": "Proj7\\Proj7.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-13T07:37:22.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\App.config",
+              "RelativeDocumentMoniker": "Proj2\\App.config",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\App.config",
+              "RelativeToolTip": "Proj2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-19T23:13:55.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\Program.cs",
+              "RelativeDocumentMoniker": "Proj2\\Program.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj2\\Program.cs",
+              "RelativeToolTip": "Proj2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:58:09.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\App.config",
+              "RelativeDocumentMoniker": "Proj1\\App.config",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\App.config",
+              "RelativeToolTip": "Proj1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-13T02:46:32.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddressBook.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\AddressBook.cs",
+              "RelativeDocumentMoniker": "Proj1\\AddressBook.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\AddressBook.cs",
+              "RelativeToolTip": "Proj1\\AddressBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:46:07.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\Address.cs",
+              "RelativeDocumentMoniker": "Proj1\\Address.cs",
+              "ToolTip": "C:\\Users\\cksgn\\source\\repos\\SolWeek3_Befor\\Proj1\\Address.cs",
+              "RelativeToolTip": "Proj1\\Address.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T02:13:07.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

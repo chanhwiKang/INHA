@@ -1,0 +1,10 @@
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\bin\Debug\ProjWinform202344073.exe.config
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\bin\Debug\ProjWinform202344073.exe
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\bin\Debug\ProjWinform202344073.pdb
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.multibootForm.resources
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.Properties.Resources.resources
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.csproj.GenerateResource.cache
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.exe
+C:\Users\cksgn\source\repos\Sol202344073_강찬휘\ProjWinform202344073\obj\Debug\ProjWinform202344073.pdb

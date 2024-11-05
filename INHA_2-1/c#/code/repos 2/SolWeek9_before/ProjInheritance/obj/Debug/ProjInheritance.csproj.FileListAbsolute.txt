@@ -1,0 +1,7 @@
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\bin\Debug\ProjInheritance.exe.config
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\bin\Debug\ProjInheritance.exe
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\bin\Debug\ProjInheritance.pdb
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\obj\Debug\ProjInheritance.csproj.AssemblyReference.cache
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\obj\Debug\ProjInheritance.csproj.CoreCompileInputs.cache
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\obj\Debug\ProjInheritance.exe
+C:\Users\cksgn\source\repos\SolWeek9_before\ProjInheritance\obj\Debug\ProjInheritance.pdb
